@@ -1,2 +1,2 @@
-# -renci-Kay-t
+# Ogrenci Kayit
 Öğrenci kayıt programı, c# ile.
